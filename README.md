@@ -11,40 +11,7 @@ Yes, even the duplicates. Here's the [game's store page btw](https://store.steam
 Ciastex originally proposed the idea of this bugtracker way before but "it wasn't required as nobody would use it." Then TieDye made a google doc to track bugs, so - as it made the previous point invalid - the bugtracker creation followed.
 
 ### Bare-minimum requirements for reports
-When reporting a bug, please provide at least a minimal context and a meaningful title.  
-Below is an example of a good, informative bug report (not real, bug was made up):
-
-> Title: **GTTOD doesn't start overhaul mode from menu**
-> #### Expected behavior
-> I press the button and I can play overhaul by selecting it from the menu.  
->   
-> #### Actual behavior
-> After pressing the button nothing happens, I'm still inside the menu.  
->  
-> #### Steps to reproduce
-> 1. Open up the game.
-> 2. Go to mode selection screen.
-> 3. Press the "Overhaul" button.
->  
-> #### Additional information
-> *This is a place for you to include any videos, screenshots and whatnot. It's completely optional.*
-
-Below is the markdown template you can use.
-```
-#### Expected behavior
-I press the button and I can play overhaul by selecting it from the menu.  
-   
-#### Actual behavior
-After pressing the button nothing happens, I'm still inside the menu.  
-  
-#### Steps to reproduce
-1. Open up the game.
-2. Go to mode selection screen.
-3. Press the "Overhaul" button.
-  
-#### Additional information
-*This is a place for you to include any videos, screenshots and whatnot. It's completely optional.*
-```
+When reporting a bug, please use the provided issue template, and if you choose not to, make sure to include all the details you possibly can about the bug you want to report.
 
 ### Bug tracker maintainers  
 Avatars taken from Discord, so you know whose username maps to who on Discord.  

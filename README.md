@@ -33,7 +33,7 @@ Moderator on GTTOD official Discord server, as well as this place. Same responsi
 &nbsp;  
 &nbsp;  
 
-**Ciastex**<img align="left" src="https://cdn.discordapp.com/avatars/85162981125541888/e6280c8e57fda9fe6660102c2868e6f0.png?size=128"></img>   
+**Ciastex**<img align="left" src="https://cdn.discordapp.com/avatars/85162981125541888/3a62f9cdbdbaf5cef6d991f1a5c5271b.png?size=128"></img>   
 An annoying pimple on GTTOD community's ass. Same responsibilities as **TieDyeTopHat**. Created [Centrifuge](https://github.com/Ciastex/Centrifuge#readme) and [Centrifuge GSL for GTTOD](https://github.com/Ciastex/Centrifuge.GTTOD). Makes GTTOD mods, too. Can provide more accurate data for bug reports - even debug the game itself to do bug hunting - whenever he feels like it.
 &nbsp;  
 &nbsp;  
